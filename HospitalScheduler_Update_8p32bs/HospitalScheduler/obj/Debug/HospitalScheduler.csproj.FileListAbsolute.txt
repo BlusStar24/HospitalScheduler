@@ -1,0 +1,50 @@
+C:\Users\cuong\OneDrive\Máy tính\DuyBao\HospitalScheduler - Copy\HospitalScheduler - Copy\HospitalScheduler\obj\Debug\HospitalScheduler.csproj.AssemblyReference.cache
+C:\Users\cuong\OneDrive\Máy tính\DuyBao\HospitalScheduler - Copy\HospitalScheduler - Copy\HospitalScheduler\obj\Debug\HospitalScheduler.frmMainPage.resources
+C:\Users\cuong\OneDrive\Máy tính\DuyBao\HospitalScheduler - Copy\HospitalScheduler - Copy\HospitalScheduler\obj\Debug\HospitalScheduler.Properties.Resources.resources
+C:\Users\cuong\OneDrive\Máy tính\DuyBao\HospitalScheduler - Copy\HospitalScheduler - Copy\HospitalScheduler\obj\Debug\HospitalScheduler.csproj.GenerateResource.cache
+C:\Users\cuong\OneDrive\Máy tính\DuyBao\HospitalScheduler - Copy\HospitalScheduler - Copy\HospitalScheduler\obj\Debug\HospitalScheduler.csproj.CoreCompileInputs.cache
+C:\Users\cuong\OneDrive\Máy tính\DuyBao\HospitalScheduler - Copy\HospitalScheduler - Copy\HospitalScheduler\bin\Debug\HospitalScheduler.exe.config
+C:\Users\cuong\OneDrive\Máy tính\DuyBao\HospitalScheduler - Copy\HospitalScheduler - Copy\HospitalScheduler\bin\Debug\HospitalScheduler.exe
+C:\Users\cuong\OneDrive\Máy tính\DuyBao\HospitalScheduler - Copy\HospitalScheduler - Copy\HospitalScheduler\bin\Debug\HospitalScheduler.pdb
+C:\Users\cuong\OneDrive\Máy tính\DuyBao\HospitalScheduler - Copy\HospitalScheduler - Copy\HospitalScheduler\obj\Debug\HospitalScheduler.exe
+C:\Users\cuong\OneDrive\Máy tính\DuyBao\HospitalScheduler - Copy\HospitalScheduler - Copy\HospitalScheduler\obj\Debug\HospitalScheduler.pdb
+D:\THTTNT\HospitalScheduler - Copy\HospitalScheduler - Copy\HospitalScheduler\bin\Debug\HospitalScheduler.exe.config
+D:\THTTNT\HospitalScheduler - Copy\HospitalScheduler - Copy\HospitalScheduler\bin\Debug\HospitalScheduler.exe
+D:\THTTNT\HospitalScheduler - Copy\HospitalScheduler - Copy\HospitalScheduler\bin\Debug\HospitalScheduler.pdb
+D:\THTTNT\HospitalScheduler - Copy\HospitalScheduler - Copy\HospitalScheduler\obj\Debug\HospitalScheduler.csproj.AssemblyReference.cache
+D:\THTTNT\HospitalScheduler - Copy\HospitalScheduler - Copy\HospitalScheduler\obj\Debug\HospitalScheduler.frmMainPage.resources
+D:\THTTNT\HospitalScheduler - Copy\HospitalScheduler - Copy\HospitalScheduler\obj\Debug\HospitalScheduler.Properties.Resources.resources
+D:\THTTNT\HospitalScheduler - Copy\HospitalScheduler - Copy\HospitalScheduler\obj\Debug\HospitalScheduler.csproj.GenerateResource.cache
+D:\THTTNT\HospitalScheduler - Copy\HospitalScheduler - Copy\HospitalScheduler\obj\Debug\HospitalScheduler.csproj.CoreCompileInputs.cache
+D:\THTTNT\HospitalScheduler - Copy\HospitalScheduler - Copy\HospitalScheduler\obj\Debug\HospitalScheduler.exe
+D:\THTTNT\HospitalScheduler - Copy\HospitalScheduler - Copy\HospitalScheduler\obj\Debug\HospitalScheduler.pdb
+D:\TH_TTNT\HospitalScheduler\HospitalScheduler\bin\Debug\HospitalScheduler.exe.config
+D:\TH_TTNT\HospitalScheduler\HospitalScheduler\bin\Debug\HospitalScheduler.exe
+D:\TH_TTNT\HospitalScheduler\HospitalScheduler\bin\Debug\HospitalScheduler.pdb
+D:\TH_TTNT\HospitalScheduler\HospitalScheduler\obj\Debug\HospitalScheduler.csproj.AssemblyReference.cache
+D:\TH_TTNT\HospitalScheduler\HospitalScheduler\obj\Debug\HospitalScheduler.frmMainPage.resources
+D:\TH_TTNT\HospitalScheduler\HospitalScheduler\obj\Debug\HospitalScheduler.Properties.Resources.resources
+D:\TH_TTNT\HospitalScheduler\HospitalScheduler\obj\Debug\HospitalScheduler.csproj.GenerateResource.cache
+D:\TH_TTNT\HospitalScheduler\HospitalScheduler\obj\Debug\HospitalScheduler.csproj.CoreCompileInputs.cache
+D:\TH_TTNT\HospitalScheduler\HospitalScheduler\obj\Debug\HospitalScheduler.exe
+D:\TH_TTNT\HospitalScheduler\HospitalScheduler\obj\Debug\HospitalScheduler.pdb
+D:\TH_TTNT\HospitalScheduler_Update\HospitalScheduler\bin\Debug\HospitalScheduler.exe.config
+D:\TH_TTNT\HospitalScheduler_Update\HospitalScheduler\bin\Debug\HospitalScheduler.exe
+D:\TH_TTNT\HospitalScheduler_Update\HospitalScheduler\bin\Debug\HospitalScheduler.pdb
+D:\TH_TTNT\HospitalScheduler_Update\HospitalScheduler\obj\Debug\HospitalScheduler.csproj.AssemblyReference.cache
+D:\TH_TTNT\HospitalScheduler_Update\HospitalScheduler\obj\Debug\HospitalScheduler.frmMainPage.resources
+D:\TH_TTNT\HospitalScheduler_Update\HospitalScheduler\obj\Debug\HospitalScheduler.Properties.Resources.resources
+D:\TH_TTNT\HospitalScheduler_Update\HospitalScheduler\obj\Debug\HospitalScheduler.csproj.GenerateResource.cache
+D:\TH_TTNT\HospitalScheduler_Update\HospitalScheduler\obj\Debug\HospitalScheduler.csproj.CoreCompileInputs.cache
+D:\TH_TTNT\HospitalScheduler_Update\HospitalScheduler\obj\Debug\HospitalScheduler.exe
+D:\TH_TTNT\HospitalScheduler_Update\HospitalScheduler\obj\Debug\HospitalScheduler.pdb
+D:\TH_TTNT\HospitalScheduler_Update_8p32bs\HospitalScheduler\bin\Debug\HospitalScheduler.exe.config
+D:\TH_TTNT\HospitalScheduler_Update_8p32bs\HospitalScheduler\bin\Debug\HospitalScheduler.exe
+D:\TH_TTNT\HospitalScheduler_Update_8p32bs\HospitalScheduler\bin\Debug\HospitalScheduler.pdb
+D:\TH_TTNT\HospitalScheduler_Update_8p32bs\HospitalScheduler\obj\Debug\HospitalScheduler.csproj.AssemblyReference.cache
+D:\TH_TTNT\HospitalScheduler_Update_8p32bs\HospitalScheduler\obj\Debug\HospitalScheduler.frmMainPage.resources
+D:\TH_TTNT\HospitalScheduler_Update_8p32bs\HospitalScheduler\obj\Debug\HospitalScheduler.Properties.Resources.resources
+D:\TH_TTNT\HospitalScheduler_Update_8p32bs\HospitalScheduler\obj\Debug\HospitalScheduler.csproj.GenerateResource.cache
+D:\TH_TTNT\HospitalScheduler_Update_8p32bs\HospitalScheduler\obj\Debug\HospitalScheduler.csproj.CoreCompileInputs.cache
+D:\TH_TTNT\HospitalScheduler_Update_8p32bs\HospitalScheduler\obj\Debug\HospitalScheduler.exe
+D:\TH_TTNT\HospitalScheduler_Update_8p32bs\HospitalScheduler\obj\Debug\HospitalScheduler.pdb
